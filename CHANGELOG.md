@@ -1,5 +1,14 @@
 # Change Log
 
+## v1.19.0 - 10/28/2021
+
+[1.19.0 Milestone](https://github.com/eclipse-theia/theia/milestone/25)
+
+<a name="breaking_changes_1.19.0">[Breaking Changes:](#breaking_changes_1.19.0)</a>
+
+- [output] moved `output-channel` from `common` to `browser` [#10154](https://github.com/eclipse-theia/theia/pull/10154)
+- [output] moved `output-preferences` from `common` to `browser` [#10154](https://github.com/eclipse-theia/theia/pull/10154)
+
 ## v1.18.0 - 9/30/2021
 
 [1.18.0 Milestone](https://github.com/eclipse-theia/theia/milestone/24)
